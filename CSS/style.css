@@ -11,8 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("/Imagens/ClearSkyBG.jpg");
-");
+    background-image: url("../Imagens/ClearSkyBG.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
